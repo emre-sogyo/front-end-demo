@@ -2,7 +2,7 @@ const banner =
    document.getElementById("banner")
 
 banner.style.backgroundColor = "green"
-
+let a = 3;
 if (a > 0) {
     functionCall1();
 } else {
